@@ -1,0 +1,1 @@
+This repository contains the code used in "CD98hc-targeted antibody shuttles for central nervous system delivery with broad cross-species reactivity" paper published in Nature Biomedical Engineering. The NGS and PSERM code repositories can be accessed from https://github.com/Tessier-Lab-UMich/NGS and https://github.com/Tessier-Lab-UMich/PSERM_paper ,respectively.
