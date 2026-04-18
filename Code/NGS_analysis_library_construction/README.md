@@ -1,1 +1,0 @@
-CDR_identifier.py, NGS_Analysis.py, ngs.py and pserm.py files originate from repositories https://github.com/Tessier-Lab-UMich/NGS and https://github.com/Tessier-Lab-UMich/PSERM_paper. See these links for more detail.
